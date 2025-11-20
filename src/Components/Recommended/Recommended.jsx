@@ -37,14 +37,8 @@ const Recommended = ({ categoryId }) => {
                             <p>{value_converter(item.statistics.viewCount)} Views</p>
                         </div>
                     </Link>
-
-
                 )
             })}
-
-
-
-
         </div>
     )
 }
